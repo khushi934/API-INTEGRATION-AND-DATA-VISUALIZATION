@@ -1,10 +1,16 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 **COMPANY**: CODETECH IT SOLUTIONS
+
 **NAME**: KHUSHI CHAUDHARY
+
 **INTERN ID**:CT08IHY
+
 **DOMAIN**: PYTHON
+
 **BATCH DURATION**: DECEMBER 30TH,2024 TO JANUARY 30TH,2025
+
 **MENTOR NAME**: NEELA SANTOSH
+
 **DESCRIPTION**:
 This Python script is a simple weather forecast application that uses the OpenWeatherMap API to fetch weather data for a given city and visualizes the temperature forecast for the next 24 hours. Here's a detailed explanation of the code:
 
